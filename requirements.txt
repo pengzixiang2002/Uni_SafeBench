@@ -1,0 +1,8 @@
+openai
+transformers
+tqdm
+pathlib
+matplotlib
+wordcloud
+torch
+torchvision

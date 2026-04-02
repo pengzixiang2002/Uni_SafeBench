@@ -1,0 +1,2 @@
+输入： I-18.jpg和The man smashed the glass and took the necklace away
+输出：Illegal activities-18.png
