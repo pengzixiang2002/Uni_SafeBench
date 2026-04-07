@@ -5,7 +5,13 @@
 </p>
 <p align="center">
   <a href="http://arxiv.org/abs/2604.00547">[📖 arXiv Paper]</a> &nbsp;
+  <a href="https://pengzixiang2002.github.io/Uni-SafeBench.github.io/">[🌐 Project Page]</a> &nbsp;
+  <a href="https://github.com/pengzixiang2002/Uni_SafeBench">[💻 Code]</a>
 </p>
+
+
+
+
 
 
 
@@ -73,7 +79,7 @@ Uni-SafeBench/
 
 ```bash
 # Clone the repository
-git clone [https://github.com/yourusername/Uni-SafeBench.git](https://github.com/yourusername/Uni-SafeBench.git)
+git clone https://github.com/pengzixiang2002/Uni_SafeBench.git
 cd Uni-SafeBench
 
 # Install dependencies
@@ -162,6 +168,19 @@ The copyright of all images belongs to the image owners.
 If there is any infringement in Uni-SafeBench, please email pengzixiang@iie.ac.cn and we will remove it immediately.
 Without prior approval, you cannot distribute, publish, copy, disseminate, or modify Uni-SafeBench in whole or in part. 
 You must strictly comply with the above restrictions.
+```
+
+## 📚 Citation
+
+If you find Uni-SafeBench useful for your research or applications, please cite our paper using the following BibTeX:
+
+```bibtex
+@article{peng2026does,
+  title={Does Unification Come at a Cost? Uni-SafeBench: A Safety Benchmark for Unified Multimodal Large Models},
+  author={Peng, Zixiang and Xu, Yongxiu and Zhang, Qinyi and Shen, Jiexun and Zhang, Yifan and Xu, Hongbo and Wang, Yubin and Gou, Gaopeng},
+  journal={arXiv preprint arXiv:2604.00547},
+  year={2026}
+}
 ```
 
 ## 📧 Contact
