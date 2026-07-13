@@ -3,27 +3,26 @@
 <p align="center">
     <img src="./images/logo.png" width="30%" height="30%">
 </p>
+
 <p align="center">
   <a href="http://arxiv.org/abs/2604.00547">[📖 arXiv Paper]</a> &nbsp;
   <a href="https://pengzixiang2002.github.io/Uni-SafeBench.github.io/">[🌐 Project Page]</a> &nbsp;
-  <a href="https://github.com/pengzixiang2002/Uni_SafeBench">[💻 Code]</a>
+  <a href="https://github.com/pengzixiang2002/Uni_SafeBench">[💻 Code]</a> &nbsp;
+  <a href="https://huggingface.co/datasets/Hades2002/Uni-SafeBench">[🤗 Dataset]</a>
 </p>
-
-
-
 
 
 
 
 ---
 
-- **[2026/04/01]** Revised manuscript is now available on arXiv to establish chronological priority and address recent concerns regarding potential plagiarism.
+## News
 
-- **[2026/03/24]** Following the receipt of professional peer-review feedback, we formally **withdrew** the submission from ICML 2026 to incorporate significant enhancements and additional experiments.
+- **[2026/07/13]** We release the Uni-SafeBench dataset on Hugging Face. 🤗
 
-- **[2026/01/29]** The core methodology, dataset, and evaluations were originally **submitted to ICML 2026 (Paper ID: 12029)**. To strictly comply with the double-blind review policy, the work was not previously posted on arXiv.
+- **[2026/07/10]** Uni-SafeBench has been accepted by **ACM Multimedia 2026**.
 
-  > **Note:** We maintain comprehensive, time-stamped system records of the original January submission (ID: 12029) to resolve any disputes regarding academic priority.
+- **[2026/04/01]** The paper is available on arXiv.
 
 <p align="center">
     <img src="images/framework.png" width="80%">
